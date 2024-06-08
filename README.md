@@ -14,7 +14,7 @@ Welcome to the Earthquake Data Analysis Project! This project is designed to ana
 └── README.md            # Project README file
 
 
-## 🔧 Requirements
+ 🔧 Requirements
 
 To run this project, you need the following Python libraries:
 
@@ -28,7 +28,8 @@ You can install these dependencies using pip:
 pip install pandas matplotlib seaborn
 
 
-# 🚀 Getting Started
+🚀 Getting Started
+
 Clone the repository:
 
 git clone https://github.com/yourusername/earthquake-analysis.git
@@ -48,7 +49,8 @@ Alternatively, you can run the main script:
 
 python src/main.py
 
-# 📊 Visualizations
+📊 Visualizations
+
 The project includes the following visualizations:
 
 Annual Earthquake Frequency Over Time
@@ -59,12 +61,16 @@ Depth vs Magnitude
 
 Distribution of Earthquake Depths
 
-# 📅 Timeline
+📅 Timeline
+
 Data Collection: Collect and preprocess earthquake data.
 Exploratory Data Analysis: Analyze the data and extract insights.
 Visualization: Create various visualizations to represent the data.
 Reporting: Document findings and create this README file.
-## 📬 Contact
+
+
+📬 Contact
+
 If you have any questions or suggestions, feel free to reach out:
 
 Email: your.email@example.com
