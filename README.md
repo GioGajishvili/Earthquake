@@ -48,7 +48,7 @@ Alternatively, you can run the main script:
 
 python src/main.py
 
-## 📊 Visualizations
+# 📊 Visualizations
 The project includes the following visualizations:
 
 Annual Earthquake Frequency Over Time
@@ -59,7 +59,7 @@ Depth vs Magnitude
 
 Distribution of Earthquake Depths
 
-## 📅 Timeline
+# 📅 Timeline
 Data Collection: Collect and preprocess earthquake data.
 Exploratory Data Analysis: Analyze the data and extract insights.
 Visualization: Create various visualizations to represent the data.
